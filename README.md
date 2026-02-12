@@ -2,7 +2,7 @@
 
 A full-stack library inventory application built to demonstrate **CRUD** operations using the **MERN Stack** (MongoDB, Express, React/Next.js, Node.js).
 
-> **Note:** This project uses **Next.js 16** with the App Router architecture.
+This project was developed as a personal learning project to deepen my understanding of the MERN Stack architecture, including frontend-backend integration, RESTful API development, database modeling with MongoDB, and full-stack application deployment workflow.
 
 ## 🚀 Tech Stack
 
